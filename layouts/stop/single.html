@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+<div class="page">
+		
+		<header></header>
+
+		<div class="main stop">
+
+			<div class="img_overlay"></div>
+			
+			<img class="main_img" src="{{ .Site.BaseURL }}stop/{{ .Params.listId }}/{{ .Params.mainImg }}">
+
+			<div class="stop_name">
+
+				<h3>{{ .Params.chapter }}</h3>
+
+				<h1>{{ .Title }}</h1>
+
+			</div>
+
+			<div class="container">
+
+				{{ .Content | replaceRE "<p>" "<p class=\"paragraph\">" | safeHTML }}
+
+
+				<span class="question">{{ .Params.question }}</span>
+
+				
+				<div class="pswd_box">
+
+					<input type="text" id="password" name="validation" placeholder="Risposta" onkeydown="if (event.keyCode == 13) document.getElementById('button').click()" />
+
+					<input id="button" type="button" class="button" value="↼  INVIA  ⇀"/>
+
+					<input id="ans" type="hidden" value="{{ .Params.pswd }}"/>
+
+					
+					
+				</div>
+				
+
+			</div>
+			
+		</div>
+
+		{{ partial "stop_success.html" . }}
+
+		{{ partial "stop_error.html" . }}
+
+		{{ partial "animation_overlay.html" . }}
+
+
+</div>
+
+
+{{ end }}
+
+

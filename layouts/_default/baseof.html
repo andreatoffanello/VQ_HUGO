@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{{ partial "meta.html" . }}
+
+	<title>{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+
+	{{ partial "head_scripts.html" . }}
+
+</head>
+<body>
+
+	{{ block "main" . }}
+
+	{{end}}
+
+</body>
+</html>
