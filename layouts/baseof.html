@@ -7,6 +7,8 @@
 
 	{{ partial "head_scripts.html" . }}
 
+	<!--{{ partial "seo_head.html" . }}-->
+
 </head>
 <body>
 
@@ -18,11 +20,10 @@
 
 	
 	<script>
-
 	    if($(window).width() >= 786) {
-        url = "/desktop/"
-        window.location = url;
-    };
+	        url = "/desktop/"
+	        window.location = url;
+	    };
     </script>
 
 
