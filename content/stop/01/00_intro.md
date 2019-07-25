@@ -10,7 +10,7 @@ linktext: "Inizia"
 
 ---
 Mi hanno trovato,<br/> 
-non so come ma mi hanno trovato...
+non so come, <br/>ma mi hanno trovato...
 
 ![img](../00_img01.jpg)Sono il Professore Alexander Zagh e
 da diverso tempo sono sulle tracce di un reperto dal valore inestimabile.

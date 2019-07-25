@@ -136,7 +136,6 @@ $(document).ready(function() {
         duration: 1000,
         easing: 'linear',
         opacity: 1,
-        'background': 'rgba(0,0,0,0.4)',
         offset: '-=1000'
     })
 
