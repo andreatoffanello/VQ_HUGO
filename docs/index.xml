@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VeniceQuest Start on VeniceQuest</title>
+    <title>VeniceQuest</title>
     <link>/</link>
-    <description>Recent content in VeniceQuest Start on VeniceQuest</description>
+    <description>Recent content on VeniceQuest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jul 2018 14:21:54 +0200</lastBuildDate>
@@ -58,7 +58,7 @@ Grandi e numerose e prove saranno richieste a chiunque voglia trovare il nostro 
     </item>
     
     <item>
-      <title>VeniceQuest Start</title>
+      <title>VeniceQuest</title>
       <link>/desktop/</link>
       <pubDate>Tue, 10 Jul 2018 14:21:54 +0200</pubDate>
       
