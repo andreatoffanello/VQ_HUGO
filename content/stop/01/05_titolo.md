@@ -8,6 +8,7 @@ title: "Sior Antonio Rioba"
 chapter: "Capitolo V"
 mainImg: "05_img01.jpg"
 pswd: "penicillo aspectabiles"
+hint: "xxxxxxxxx xxxxxxxxxxxx"
 link: "00fxyz"
 question: "Nei paraggi un'epigrafe testimonia il luogo in cui abitava il Tintoretto. Nell'immagine alcune parole sono sparite. Quali sono?"
 

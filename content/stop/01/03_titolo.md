@@ -8,6 +8,7 @@ title: "L’arco del ponte del paradiso"
 chapter: "Capitolo III"
 mainImg: "03_img01.jpg"
 pswd: "croce"
+hint: "xxxxx"
 link: "00dxyz"
 question: "Su uno degli angoli che sostiene l’arco vi è una rudimentale incisione, di cosa si tratta?"
 

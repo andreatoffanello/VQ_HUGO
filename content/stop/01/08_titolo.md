@@ -8,6 +8,7 @@ title: "••••• ••••• ••••••"
 chapter: "Capitolo VII"
 mainImg: "00_img03.jpg"
 pswd: "15"
+hint: "xx"
 link: "00zzxyz"
 question: "Quante dita toccano il globo dorato?"
 

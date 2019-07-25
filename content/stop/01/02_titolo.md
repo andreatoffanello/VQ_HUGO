@@ -8,6 +8,7 @@ title: "La porta della carta"
 chapter: "Capitolo II"
 mainImg: "02_img01.jpg"
 pswd: "rota"
+hint: "xxxx"
 link: "00cxyz"
 question: "In quale ordine appaiono le quattro statue nell'immagine?"
 

@@ -1,3 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "VQ"
+title = "VeniceQuest"
+
+
+publishDir = "docs"

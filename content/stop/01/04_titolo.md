@@ -8,6 +8,7 @@ title: "Una delle avventure amorose del casanova"
 chapter: "Capitolo IV"
 mainImg: "04_img01.jpg"
 pswd: "6297 6299"
+hint: "xxxx xxxx"
 link: "00exyz"
 question: "Scendendo dal ponte mantenendo la laguna sulla destra, troviamo un passaggio in legno per la Corte Berlendis. Attraversandola ci troviamo nell’omonima calle.
 È visibile da qui una stanza unica che sormonta la calle e si affaccia al canale sostenuta da due blocchi di legno su cui sono impressi due numeri. Quali sono?"

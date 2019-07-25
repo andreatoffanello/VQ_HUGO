@@ -8,6 +8,7 @@ title: "Belisandra Meraviglia"
 chapter: "Capitolo VII"
 mainImg: "07_img01.jpg"
 pswd: "1062"
+hint: "xxxx"
 link: "00hxyz"
 question: "In una calle nelle vicinanze del ponte vi è una forma come quella in figura. Sopra quale numero campeggia?"
 

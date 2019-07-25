@@ -8,8 +8,9 @@ title: "Il medaglione di marmo a S. Pantaleone"
 chapter: "Capitolo I"
 mainImg: "01_img01.jpg"
 pswd: "4 conchiglie"
+hint: "x xxxxxxxxxx"
 link: "00bxyz"
-question: "Disposte sotto al medaglione, incastonate nel muro ci sono delle forme. Quante sono e cosa raffigurano?"
+question: "Disposte ai lati del medaglione, incastonate nel muro, ci sono delle forme. Quante sono e cosa raffigurano?"
 
 ---
 "*In campiello Angaran, detto Zen, a S. Pantaleone [San Pantalon ndr] si vede sulle pareti esterne d’una casa un medaglione di marmo, che rappresenta un imperatore d’Oriente in costume.* 

@@ -8,6 +8,7 @@ title: "Il monumento di Tommaso Rangone"
 chapter: "Capitolo VI"
 mainImg: "06_img01.jpg"
 pswd: "ebraico greco"
+hint: "xxxxxxx xxxxx"
 link: "00gxyz"
 question: "Ai lati del portale descritto, sono presenti due iscrizioni in due lingue diverse. Quali lingue sono?"
 
