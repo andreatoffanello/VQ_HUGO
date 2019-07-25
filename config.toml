@@ -4,3 +4,4 @@ title = "VeniceQuest"
 
 
 publishDir = "docs"
+ignoreFiles = [ "static/style/node_modules/*" ]
