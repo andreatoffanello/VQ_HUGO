@@ -23,11 +23,11 @@ Leggi tu stesso.
 
 *"Noi, xxx, xxx, xxx, ultimi Custodi, nell'adempimento del nostro dovere, al fine di proteggere il più prezioso dei tesori, abbiamo deciso di trasferirlo dal luogo dove originalmente fu occultato dai nostri predecessori.*
 
-*Voi che ora leggete avete dimostrato già grandi doti ma non è abbastanza.*
+*Voi che ora leggete avete dimostrato già grandi doti, ma non è abbastanza.*
 
-*Grandi e numerose e prove saranno richieste a chiunque voglia trovare il nostro tesoro.*
+*Numerose e prove saranno richieste a chiunque voglia trovare il nostro tesoro.*
 
-*Questa meta non è altro che il punto di partenza.*
+*Questa meta non è altro che un nuovo punto di partenza.*
 
 ...
 
@@ -37,4 +37,4 @@ Ora ti devo lasciare. I miei inseguitori stanno per raggiungermi.
 
 Grazie del tuo aiuto, prometto che riprenderemo la ricerca non appena le acque si saranno calmate.
 
-Mi sembri una persona in gamba, chissà quante altre avventure hai davanti...
+Mi sembri una persona in gamba, chissà quante altre avventure ti aspettano...
