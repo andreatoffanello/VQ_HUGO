@@ -2,3 +2,6 @@
 static/style/node_modules/
 docs/style/node_modules/
 static/style/package-lock.json
+docs/style/gulpfile.js
+docs/style/package-lock.json
+docs/style/package.json
