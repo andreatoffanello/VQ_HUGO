@@ -2,8 +2,8 @@
 title: "Uno studioso nei guai"
 date: 2018-07-10T14:21:54+02:00
 draft: false
-type: intro
-layout: "intro"
+type: intro_noend
+layout: "intro_noend"
 slug: "00zzxyz"
 
 link: "/raccolta"
@@ -25,16 +25,4 @@ Leggi tu stesso.
 
 *Voi che ora leggete avete dimostrato già grandi doti, ma non è abbastanza.*
 
-*Numerose prove saranno richieste a chiunque voglia trovare il nostro tesoro.*
-
-*Questa meta non è altro che un nuovo punto di partenza.*
-
-...
-
-Quindi la nostra ricerca non è ancora finita...
-
-Ora ti devo lasciare. I miei inseguitori stanno per raggiungermi.
-
-Grazie del tuo aiuto, prometto che riprenderemo la ricerca non appena le acque si saranno calmate.
-
-Mi sembri una persona in gamba, chissà quante altre avventure ti aspettano...
+*Trovate l'ultimo dei Custodi che ancora veglia dove il tesoro un tempo era custodito.*
