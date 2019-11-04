@@ -16,7 +16,7 @@ $(document).ready(function() {
     //HOMEPAGE
 
     var homeFade = anime.timeline({
-        autoplay: true,
+        autoplay: true,   
     })
 
     .add ({
@@ -41,7 +41,7 @@ $(document).ready(function() {
         opacity: 1,
         'margin-top': '16px',
         offset: '-=1000',
-        delay: function(el, i) { return i * 400 }
+        delay: function(el, i) { return i * 400 } 
     })
 
     .add ({
@@ -59,8 +59,8 @@ $(document).ready(function() {
     var homeFade = anime.timeline({
         autoplay: true,
         targets: '.right_content *',
-        offset: 500,
-        delay: function(el, i) { return i * 200 }
+        offset: 500, 
+        delay: function(el, i) { return i * 200 }  
     })
 
     .add ({
@@ -75,7 +75,7 @@ $(document).ready(function() {
 
     var boxup = anime.timeline({
         autoplay: true,
-        delay: function(el, i) { return i * 200 }
+        delay: function(el, i) { return i * 200 }    
     })
 
     .add ({
@@ -110,7 +110,7 @@ $(document).ready(function() {
     });
 
     var introH1 = anime.timeline({
-        autoplay: true,
+        autoplay: true,    
     })
 
     .add ({
@@ -164,13 +164,13 @@ $(document).ready(function() {
         complete: function(anim) {
             textfi.restart();
             $('.main.stop').css("height", "auto");
-        }
+        }   
     });
 
     var textfi = anime.timeline({
         autoplay: false,
         targets: '.paragraph',
-        delay: function(el, i) { return i * 100 }
+        delay: function(el, i) { return i * 100 }  
     })
 
     .add ({
@@ -181,7 +181,7 @@ $(document).ready(function() {
     });
 
 
-
+                
 //=== ANIMAZIONE CONVALIDA ===
 
     //Comparsa
@@ -278,7 +278,7 @@ $(document).ready(function() {
 
     //Pulsante
     $("#button").click(function() {
-
+      
       if ($("#password").val() == $("#ans").val()) {
         validation.restart();
         //$("#secret").addClass( "show" );
@@ -287,7 +287,7 @@ $(document).ready(function() {
            $("#success").css( "visibility","visible");
         }, 3000);
       }
-
+      
       else {
         validation.restart();
         //$("#secret").addClass( "show" );
@@ -302,15 +302,15 @@ $(document).ready(function() {
     //Pulsante
     $("#error button").click(function() {
         fadeError.restart();
-    });
+    }); 
 
 
 //================= INTRO
 
     var currDiv = $(".content p:first-child");
-
+    
     currDiv .css("display", "block");
-
+    
     $(".next").click(function() {
         currDiv  = currDiv .next();
         $(".content p").css("display", "none");
@@ -321,7 +321,6 @@ $(document).ready(function() {
             $( ".next" ).css( "display", "none" );
 
         }
-
         else {
         };
         dialogue.restart();
@@ -332,7 +331,7 @@ $(document).ready(function() {
 
 
     var dialogue = anime.timeline({
-        autoplay: true,
+        autoplay: true,    
     })
 
     .add ({
@@ -359,12 +358,12 @@ $(document).ready(function() {
     });
 
 
-
+    
     var bkg_eff = anime.timeline({
         autoplay: true,
         targets: '.bkg_eff img',
         loop: true,
-        delay: function(el, i) { return i * 5000 }
+        delay: function(el, i) { return i * 5000 }    
     })
 
     .add ({
