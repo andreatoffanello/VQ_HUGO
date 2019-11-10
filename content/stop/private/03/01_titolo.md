@@ -5,7 +5,7 @@ slug: "00axyz"
 listid: "private/03"
 
 title: "Il medaglione di marmo a S. Pantaleone"
-chapter: "Capitolo I"
+chapter: "Capitolo VI"
 mainImg: "01_img01.jpg"
 pswd: "4 conchiglie"
 hint: "x xxxxxxxxxx"

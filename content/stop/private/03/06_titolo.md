@@ -5,7 +5,7 @@ slug: "00fxyz"
 listid: "private/03"
 
 title: "Il monumento di Tommaso Rangone"
-chapter: "Capitolo VI"
+chapter: "Capitolo II"
 mainImg: "06_img01.jpg"
 pswd: "ebraico greco"
 hint: "xxxxxxx xxxxx"

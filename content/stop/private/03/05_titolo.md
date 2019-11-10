@@ -5,7 +5,7 @@ slug: "00exyz"
 listid: "private/03"
 
 title: "Sior Antonio Rioba"
-chapter: "Capitolo V"
+chapter: "Capitolo III"
 mainImg: "05_img01.jpg"
 pswd: "penicillo aspectabiles"
 hint: "xxxxxxxxx xxxxxxxxxxxx"

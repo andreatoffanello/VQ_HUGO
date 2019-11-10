@@ -5,7 +5,7 @@ slug: "00bxyz"
 listid: "private/02"
 
 title: "La porta della carta"
-chapter: "Capitolo II"
+chapter: "Capitolo VI"
 mainImg: "02_img01.jpg"
 pswd: "rota"
 hint: "xxxx"

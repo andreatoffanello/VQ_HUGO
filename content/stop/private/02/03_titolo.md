@@ -5,7 +5,7 @@ slug: "00cxyz"
 listid: "private/02"
 
 title: "L’arco del ponte del paradiso"
-chapter: "Capitolo III"
+chapter: "Capitolo IV"
 mainImg: "03_img01.jpg"
 pswd: "croce"
 hint: "xxxxx"

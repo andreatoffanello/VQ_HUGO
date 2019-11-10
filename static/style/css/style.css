@@ -85,6 +85,7 @@ body {
   max-width: 1080px;
   padding: 56px;
   -webkit-box-align: center;
+  -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
 }
@@ -380,6 +381,18 @@ input {
   color: #B71C1C;
 }
 
+#error .error_tip {
+  color: #ffffff;
+  opacity: .7;
+  font-style: italic;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 0px;
+  margin-bottom: 32px;
+  width: 320px;
+  font-size: 14px;
+}
+
 #success.response {
   background: #2e7d32;
 }
@@ -496,6 +509,7 @@ input {
   letter-spacing: 1px;
   text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
   -webkit-box-align: center;
+  -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
 }

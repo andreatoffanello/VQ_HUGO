@@ -46,8 +46,8 @@ var sassOptions = {
 var prefixerOptions = {
   // browsers: ['last 2 versions'],
 
-  browsers: [
-    'last 6 version',
+  overrideBrowserslist: [
+    'last 10 version',
     '> 1%',
     'IE 8'
   ]
@@ -81,6 +81,7 @@ gulp.task('sass-lint', function() {
 gulp.task('watch', function() {
   livereload.listen();
   gulp.watch('scss/*.scss', gulp.series('styles'));
+  gulp.watch('scss/*/*.scss', gulp.series('styles'));
 });
 
 // BUILD TASKS

@@ -5,7 +5,7 @@ slug: "00gxyz"
 listid: "private/02"
 
 title: "Belisandra Meraviglia"
-chapter: "Capitolo VII"
+chapter: "Capitolo I"
 mainImg: "07_img01.jpg"
 pswd: "1062"
 hint: "xxxx"
